@@ -27,6 +27,7 @@
 
 1. **Клонируйте репозиторий**:
 git clone https://github.com/sofya-kuchinskaya/ParseCrypto.git
+
 cd ParseCrypto
 
 2. **Создайте виртуальное окружение**
