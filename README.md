@@ -25,13 +25,12 @@
 
 # Установка
 
-1. **Клонируйте репозиторий**:
-
+## Клонируйте репозиторий
 git clone https://github.com/sofya-kuchinskaya/ParseCrypto.git
 
 cd ParseCrypto
 
-2. **Создайте виртуальное окружение**
+## Создайте виртуальное окружение
 ### Для Windows:
 python -m venv crypto_venv
 
@@ -42,7 +41,7 @@ python3 -m venv crypto_venv
 
 source crypto_venv/bin/activate
 
-3. **Установите зависимости**
+## Установите зависимости
 pip install -r requirements.txt или pip3 install -r requirements.txt
 
 ## Запуск
