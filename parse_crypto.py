@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-limit = int(input("Сколько токенов показать? "))
+limit = int(input("Сколько токенов показать? Введите число от 1 до 49: "))
 tokens =[]
 total_pages = 49
 base_url = "https://etherscan.io/tokens"
